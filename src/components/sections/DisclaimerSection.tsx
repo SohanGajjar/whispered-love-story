@@ -29,7 +29,7 @@ export const DisclaimerSection = ({ onContinue }: DisclaimerSectionProps) => {
       delay: 1.2,
     },
     {
-      text: "But somewhere inside, I know it might not turn out the way I hope.. and I'm at a point in my life where I can't keep holding back what truly matters, even for one more day (job and all). I want to fix many things… and yes, you guessed it right — this is a proposal.",
+      text: "But somewhere inside, I know it might not turn out the way I hope.. and I'm at a point in my life where I can't keep holding back what truly matters, even for one more day (job and all). I want to fix many things… and yes, you guessed it right this is a proposal.",
       delay: 1.6,
       highlight: true,
     },
@@ -47,7 +47,7 @@ export const DisclaimerSection = ({ onContinue }: DisclaimerSectionProps) => {
       delay: 3.0,
     },
     {
-      text: "(Please ignore my stupid roasting and complaints — I only do that with people I truly care about.)",
+      text: "(Please ignore my stupid roasting and complaints I only do that with people I truly care about.)",
       delay: 3.4,
       muted: true,
     },
