@@ -36,7 +36,7 @@ const moments: Moment[] = [
   {
     id: 6,
     front: "You",
-    back: "You are pretty!! why would I ever hide that fact? So yes, my favorite thing about you… is YOU.",
+    back: "You are pretty!! why would I ever hide that fact? So yes, my favorite thing about you… is YOU. Full stop.",
   },
 ];
 
